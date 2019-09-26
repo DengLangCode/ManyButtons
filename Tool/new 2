@@ -1,0 +1,49 @@
+行编辑器1
+行编辑器2
+行编辑器3
+行编辑器4
+行编辑器5
+行编辑器6
+行编辑器7
+行编辑器8
+行编辑器9
+行编辑器10
+
+标签1
+标签2
+标签3
+标签4
+标签5
+标签6
+标签7
+标签8
+标签9
+标签10
+
+
+TempLabel = new QLabel("标签1");	TempLabel->setFixedWidth(70);	grLayout->addWidget(TempLabel);		TempLineEdit= new QLineEdit("行编辑器1");	TempLineEdit->setEnabled(false);	grLayout->addWidget(TempLineEdit);
+TempLabel = new QLabel("标签2");	TempLabel->setFixedWidth(70);	grLayout->addWidget(TempLabel);		TempLineEdit= new QLineEdit("行编辑器2");	TempLineEdit->setEnabled(false);	grLayout->addWidget(TempLineEdit);
+TempLabel = new QLabel("标签3");	TempLabel->setFixedWidth(70);	grLayout->addWidget(TempLabel);		TempLineEdit= new QLineEdit("行编辑器3");	TempLineEdit->setEnabled(false);	grLayout->addWidget(TempLineEdit);
+TempLabel = new QLabel("标签4");	TempLabel->setFixedWidth(70);	grLayout->addWidget(TempLabel);		TempLineEdit= new QLineEdit("行编辑器4");	TempLineEdit->setEnabled(false);	grLayout->addWidget(TempLineEdit);
+TempLabel = new QLabel("标签5");	TempLabel->setFixedWidth(70);	grLayout->addWidget(TempLabel);		TempLineEdit= new QLineEdit("行编辑器5");	TempLineEdit->setEnabled(false);	grLayout->addWidget(TempLineEdit);
+TempLabel = new QLabel("标签6");	TempLabel->setFixedWidth(70);	grLayout->addWidget(TempLabel);		TempLineEdit= new QLineEdit("行编辑器6");	TempLineEdit->setEnabled(false);	grLayout->addWidget(TempLineEdit);
+TempLabel = new QLabel("标签7");	TempLabel->setFixedWidth(70);	grLayout->addWidget(TempLabel);		TempLineEdit= new QLineEdit("行编辑器7");	TempLineEdit->setEnabled(false);	grLayout->addWidget(TempLineEdit);
+TempLabel = new QLabel("标签8");	TempLabel->setFixedWidth(70);	grLayout->addWidget(TempLabel);		TempLineEdit= new QLineEdit("行编辑器8");	TempLineEdit->setEnabled(false);	grLayout->addWidget(TempLineEdit);
+TempLabel = new QLabel("标签9");	TempLabel->setFixedWidth(70);	grLayout->addWidget(TempLabel);		TempLineEdit= new QLineEdit("行编辑器9");	TempLineEdit->setEnabled(false);	grLayout->addWidget(TempLineEdit);
+TempLabel = new QLabel("标签10");	TempLabel->setFixedWidth(70);	grLayout->addWidget(TempLabel);		TempLineEdit= new QLineEdit("行编辑器10");	TempLineEdit->setEnabled(false);	grLayout->addWidget(TempLineEdit);
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
